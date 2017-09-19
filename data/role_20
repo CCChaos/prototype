@@ -1,0 +1,5 @@
+kill_data {
+  red_name: true
+  kill_point: 54
+  kill_creature: 100
+}
